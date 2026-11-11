@@ -1,0 +1,5 @@
+si/skinstructor/booking/model/BookingRequest.class
+si/skinstructor/booking/model/BookingResponse.class
+si/skinstructor/booking/model/BookingStatusUpdate.class
+si/skinstructor/booking/api/ApiUtil.class
+si/skinstructor/booking/api/BookingsApi.class
